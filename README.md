@@ -1,6 +1,7 @@
 # TC3002B_MvsW_A01703259
 Ricardo Nuñez Alanis
 ## Dataset
+https://drive.google.com/drive/folders/1JDDSkfatkr4B-aZIX2oOjopntRft3lv2?usp=drive_link
 En el siguiente link se encuntra la descarga del dataset: https://www.kaggle.com/datasets/hasibalmuzdadid/shoe-vs-sandal-vs-boot-dataset-15k-images
 Dentro de este dataset se encuentran 3 clases de 5000 imagenes cada una; Estas clases son: Zapatos, Sandalias y Botas con un tamaño de resolución de
 136 x 102 cada una de estas
